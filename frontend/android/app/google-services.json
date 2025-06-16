@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "13604293684",
+    "project_id": "projectfreshli",
+    "storage_bucket": "projectfreshli.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13604293684:android:e2357d16939101a1858e61",
+        "android_client_info": {
+          "package_name": "com.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13604293684-cpbd1uo7usp17r5l3r1d2m1a2g172oe9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.client",
+            "certificate_hash": "0d9bc2f022bf9f490295b78e59cc3cada2cad99b"
+          }
+        },
+        {
+          "client_id": "13604293684-ap7rk1tkqrc8ohj84ijut2v0bjt95mcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7CVg-jt65yOl_OsF59VfeYwet2Js9AHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13604293684-ap7rk1tkqrc8ohj84ijut2v0bjt95mcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
